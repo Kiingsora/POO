@@ -8,15 +8,25 @@ public class Gladiator
     {
         currentHealth = pcurrentHealth;
         name = pname;
-        Console.WriteLine("Combattant: " + pname);
-        Console.WriteLine("Santé: " + pcurrentHealth + " HP");
+        Console.WriteLine("Combattant: " + name);
+        Console.WriteLine("Santé: " + currentHealth + " HP");
     }
 
     public void ReceiveDamage(int pdamage)
     {
         damage = pdamage;
-        currentHealth -= damage;
-        Console.WriteLine(name + " reçois " + damage + "pts de dégats, il lui reste " + currentHealth + " points de vie");
+        while (currentHealth > 0)
+        {
+            currentHealth -= damage;
+            Console.WriteLine(name + " reçois " + damage + "pts de dégats, il lui reste " + currentHealth + " points de vie");
+            if (currentHealth <= 0)
+            {
+                // pour éviter de tomber en négatif
+                currentHealth = 0;
+                Die();
+            }
+        }
+
     }
 
     public void Die()

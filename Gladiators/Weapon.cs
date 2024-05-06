@@ -8,8 +8,8 @@ public class Weapon{
         damage = pdamage;
         weaponName = pweaponName;
 
-        Console.WriteLine("Arme: " + pweaponName);
-        Console.WriteLine("Dégat: " + pdamage + " pts");
+        Console.WriteLine("Arme: " + weaponName);
+        Console.WriteLine("Dégat: " + damage + " pts");
     }
     
 }
