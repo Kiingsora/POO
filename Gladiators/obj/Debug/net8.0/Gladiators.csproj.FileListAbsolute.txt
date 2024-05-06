@@ -1,0 +1,14 @@
+c:\Users\hiche\Documents\ZeroToPro\POO\Gladiators\bin\Debug\net8.0\Gladiators.exe
+c:\Users\hiche\Documents\ZeroToPro\POO\Gladiators\bin\Debug\net8.0\Gladiators.deps.json
+c:\Users\hiche\Documents\ZeroToPro\POO\Gladiators\bin\Debug\net8.0\Gladiators.runtimeconfig.json
+c:\Users\hiche\Documents\ZeroToPro\POO\Gladiators\bin\Debug\net8.0\Gladiators.dll
+c:\Users\hiche\Documents\ZeroToPro\POO\Gladiators\bin\Debug\net8.0\Gladiators.pdb
+c:\Users\hiche\Documents\ZeroToPro\POO\Gladiators\obj\Debug\net8.0\Gladiators.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\hiche\Documents\ZeroToPro\POO\Gladiators\obj\Debug\net8.0\Gladiators.AssemblyInfoInputs.cache
+c:\Users\hiche\Documents\ZeroToPro\POO\Gladiators\obj\Debug\net8.0\Gladiators.AssemblyInfo.cs
+c:\Users\hiche\Documents\ZeroToPro\POO\Gladiators\obj\Debug\net8.0\Gladiators.csproj.CoreCompileInputs.cache
+c:\Users\hiche\Documents\ZeroToPro\POO\Gladiators\obj\Debug\net8.0\Gladiators.dll
+c:\Users\hiche\Documents\ZeroToPro\POO\Gladiators\obj\Debug\net8.0\refint\Gladiators.dll
+c:\Users\hiche\Documents\ZeroToPro\POO\Gladiators\obj\Debug\net8.0\Gladiators.pdb
+c:\Users\hiche\Documents\ZeroToPro\POO\Gladiators\obj\Debug\net8.0\Gladiators.genruntimeconfig.cache
+c:\Users\hiche\Documents\ZeroToPro\POO\Gladiators\obj\Debug\net8.0\ref\Gladiators.dll

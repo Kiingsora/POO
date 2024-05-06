@@ -1,0 +1,14 @@
+c:\Users\hiche\Documents\ZeroToPro\POO\Driver\bin\Debug\net8.0\Driver.exe
+c:\Users\hiche\Documents\ZeroToPro\POO\Driver\bin\Debug\net8.0\Driver.deps.json
+c:\Users\hiche\Documents\ZeroToPro\POO\Driver\bin\Debug\net8.0\Driver.runtimeconfig.json
+c:\Users\hiche\Documents\ZeroToPro\POO\Driver\bin\Debug\net8.0\Driver.dll
+c:\Users\hiche\Documents\ZeroToPro\POO\Driver\bin\Debug\net8.0\Driver.pdb
+c:\Users\hiche\Documents\ZeroToPro\POO\Driver\obj\Debug\net8.0\Driver.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\hiche\Documents\ZeroToPro\POO\Driver\obj\Debug\net8.0\Driver.AssemblyInfoInputs.cache
+c:\Users\hiche\Documents\ZeroToPro\POO\Driver\obj\Debug\net8.0\Driver.AssemblyInfo.cs
+c:\Users\hiche\Documents\ZeroToPro\POO\Driver\obj\Debug\net8.0\Driver.csproj.CoreCompileInputs.cache
+c:\Users\hiche\Documents\ZeroToPro\POO\Driver\obj\Debug\net8.0\Driver.dll
+c:\Users\hiche\Documents\ZeroToPro\POO\Driver\obj\Debug\net8.0\refint\Driver.dll
+c:\Users\hiche\Documents\ZeroToPro\POO\Driver\obj\Debug\net8.0\Driver.pdb
+c:\Users\hiche\Documents\ZeroToPro\POO\Driver\obj\Debug\net8.0\Driver.genruntimeconfig.cache
+c:\Users\hiche\Documents\ZeroToPro\POO\Driver\obj\Debug\net8.0\ref\Driver.dll
