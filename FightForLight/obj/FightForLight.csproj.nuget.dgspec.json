@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hiche\\Documents\\ZeroToPro\\POO\\Driver\\Driver.csproj": {}
+    "C:\\Users\\hiche\\Documents\\ZeroToPro\\POO\\FightForLight\\FightForLight.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hiche\\Documents\\ZeroToPro\\POO\\Driver\\Driver.csproj": {
+    "C:\\Users\\hiche\\Documents\\ZeroToPro\\POO\\FightForLight\\FightForLight.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hiche\\Documents\\ZeroToPro\\POO\\Driver\\Driver.csproj",
-        "projectName": "Driver",
-        "projectPath": "C:\\Users\\hiche\\Documents\\ZeroToPro\\POO\\Driver\\Driver.csproj",
+        "projectUniqueName": "C:\\Users\\hiche\\Documents\\ZeroToPro\\POO\\FightForLight\\FightForLight.csproj",
+        "projectName": "FightForLight",
+        "projectPath": "C:\\Users\\hiche\\Documents\\ZeroToPro\\POO\\FightForLight\\FightForLight.csproj",
         "packagesPath": "C:\\Users\\hiche\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hiche\\Documents\\ZeroToPro\\POO\\Driver\\obj\\",
+        "outputPath": "C:\\Users\\hiche\\Documents\\ZeroToPro\\POO\\FightForLight\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hiche\\AppData\\Roaming\\NuGet\\NuGet.Config"

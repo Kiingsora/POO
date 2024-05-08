@@ -1,0 +1,15 @@
+c:\Users\hiche\Documents\ZeroToPro\POO\FightForLight\bin\Debug\net8.0\FightForLight.exe
+c:\Users\hiche\Documents\ZeroToPro\POO\FightForLight\bin\Debug\net8.0\FightForLight.deps.json
+c:\Users\hiche\Documents\ZeroToPro\POO\FightForLight\bin\Debug\net8.0\FightForLight.runtimeconfig.json
+c:\Users\hiche\Documents\ZeroToPro\POO\FightForLight\bin\Debug\net8.0\FightForLight.dll
+c:\Users\hiche\Documents\ZeroToPro\POO\FightForLight\bin\Debug\net8.0\FightForLight.pdb
+c:\Users\hiche\Documents\ZeroToPro\POO\FightForLight\obj\Debug\net8.0\FightForLight.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\hiche\Documents\ZeroToPro\POO\FightForLight\obj\Debug\net8.0\FightForLight.AssemblyInfoInputs.cache
+c:\Users\hiche\Documents\ZeroToPro\POO\FightForLight\obj\Debug\net8.0\FightForLight.AssemblyInfo.cs
+c:\Users\hiche\Documents\ZeroToPro\POO\FightForLight\obj\Debug\net8.0\FightForLight.csproj.CoreCompileInputs.cache
+c:\Users\hiche\Documents\ZeroToPro\POO\FightForLight\obj\Debug\net8.0\FightForLight.sourcelink.json
+c:\Users\hiche\Documents\ZeroToPro\POO\FightForLight\obj\Debug\net8.0\FightForLight.dll
+c:\Users\hiche\Documents\ZeroToPro\POO\FightForLight\obj\Debug\net8.0\refint\FightForLight.dll
+c:\Users\hiche\Documents\ZeroToPro\POO\FightForLight\obj\Debug\net8.0\FightForLight.pdb
+c:\Users\hiche\Documents\ZeroToPro\POO\FightForLight\obj\Debug\net8.0\FightForLight.genruntimeconfig.cache
+c:\Users\hiche\Documents\ZeroToPro\POO\FightForLight\obj\Debug\net8.0\ref\FightForLight.dll

@@ -1,15 +1,20 @@
 public class Weapon{
 
-    public int damage;
-    public string weaponName;
+    private int _damage;
+    public int Damage{
+        get{return _damage;}
+    }
+    private string _weaponName;
+    public string WeaponName{
+        get{ return _weaponName;}
+        set{ _weaponName = value;}
+    }
 
     public Weapon(int pdamage, string pweaponName){
 
-        damage = pdamage;
-        weaponName = pweaponName;
-
-        Console.WriteLine("Arme: " + weaponName);
-        Console.WriteLine("Dégat: " + damage + " pts");
+        _damage = pdamage;
+        _weaponName = pweaponName;
+        Console.WriteLine("Arme: " + _weaponName);
+        Console.WriteLine("Dégat: " + _damage + " pts");
     }
-    
 }
