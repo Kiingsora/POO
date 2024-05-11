@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Gladiators")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Lists")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+afb79aea3c5a3af4c84547c217e2954c0f4f8cc3")]
-[assembly: System.Reflection.AssemblyProductAttribute("Gladiators")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Gladiators")]
+[assembly: System.Reflection.AssemblyProductAttribute("Lists")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Lists")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Généré par la classe MSBuild WriteCodeFragment.

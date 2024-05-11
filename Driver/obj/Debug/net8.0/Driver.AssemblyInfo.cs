@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Driver")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b416acaf3ac03b718b0414a89bbfb1131844536")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+afb79aea3c5a3af4c84547c217e2954c0f4f8cc3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Driver")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Driver")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

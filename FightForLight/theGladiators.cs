@@ -6,6 +6,7 @@ public class Gladiator
         get { return _currentHealth; }
         set { _currentHealth = value; }
     }
+
     private string _name;
     public string Name
     {
@@ -26,38 +27,38 @@ public class Gladiator
         set { _assignedWeapon = value; }
     }
 
-    public Gladiator(int pcurrentHealth, string pname, string passignedWeapon)
+    private int _target;
+    public int Target
+    {
+        get => _target;
+        set => _target = value;
+    }
+
+    public Gladiator(int pcurrentHealth, string pname, string passignedWeapon, int pdamage)
     {
         _currentHealth = pcurrentHealth;
         _name = pname;
         _assignedWeapon = passignedWeapon;
+        _damage = pdamage;
+
         Console.WriteLine("Combattant: " + _name);
         Console.WriteLine("Santé: " + _currentHealth + " HP");
     }
 
-    public void ReceiveDamage(int pdamage)
+    public void AttackTarget(Gladiator target)
     {
-        _damage = pdamage;
-        while (_currentHealth > 0)
+        target.CurrentHealth -= _damage;
+        Console.WriteLine(_name + " donne un coup, il inflige " + _damage + " pts de dégats. "+ target._name +" Point de vie restant: " + target._currentHealth + " points de vie");
+
+        if (target._currentHealth <= 0 || _currentHealth <= 0 )
         {
-            _currentHealth -= _damage;
-
-            if (_currentHealth <= 0)
-            {
-                // pour éviter de tomber en négatif
-                _currentHealth = 0;
-                Die();
-            }
-            else
-            {
-                Console.WriteLine(_name + " reçois " + _damage + "pts de dégats, il lui reste " + _currentHealth + " points de vie");
-            }
+            _currentHealth = 0;
+            target._currentHealth = 0;
+            Die(_name);
         }
-
     }
-
-    public void Die()
+    public void Die(string _name)
     {
-        Console.WriteLine("YOU DIED");
+        Console.WriteLine(_name + " à gagné");
     }
 }
