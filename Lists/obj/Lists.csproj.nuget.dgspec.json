@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hiche\\Documents\\ZeroToPro\\POO\\Lists\\Lists.csproj": {}
+    "c:\\Users\\hiche\\Documents\\ZeroToPro\\POO\\Lists\\Lists.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hiche\\Documents\\ZeroToPro\\POO\\Lists\\Lists.csproj": {
+    "c:\\Users\\hiche\\Documents\\ZeroToPro\\POO\\Lists\\Lists.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hiche\\Documents\\ZeroToPro\\POO\\Lists\\Lists.csproj",
+        "projectUniqueName": "c:\\Users\\hiche\\Documents\\ZeroToPro\\POO\\Lists\\Lists.csproj",
         "projectName": "Lists",
-        "projectPath": "C:\\Users\\hiche\\Documents\\ZeroToPro\\POO\\Lists\\Lists.csproj",
+        "projectPath": "c:\\Users\\hiche\\Documents\\ZeroToPro\\POO\\Lists\\Lists.csproj",
         "packagesPath": "C:\\Users\\hiche\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hiche\\Documents\\ZeroToPro\\POO\\Lists\\obj\\",
+        "outputPath": "c:\\Users\\hiche\\Documents\\ZeroToPro\\POO\\Lists\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hiche\\AppData\\Roaming\\NuGet\\NuGet.Config"
