@@ -12,3 +12,4 @@ c:\Users\hiche\Documents\ZeroToPro\POO\Driver\obj\Debug\net8.0\refint\Driver.dll
 c:\Users\hiche\Documents\ZeroToPro\POO\Driver\obj\Debug\net8.0\Driver.pdb
 c:\Users\hiche\Documents\ZeroToPro\POO\Driver\obj\Debug\net8.0\Driver.genruntimeconfig.cache
 c:\Users\hiche\Documents\ZeroToPro\POO\Driver\obj\Debug\net8.0\ref\Driver.dll
+c:\Users\hiche\Documents\ZeroToPro\POO\Driver\obj\Debug\net8.0\Driver.sourcelink.json

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hiche\\Documents\\ZeroToPro\\POO\\Gladiators\\Gladiators.csproj": {}
+    "c:\\Users\\hiche\\Documents\\ZeroToPro\\POO\\Gladiators\\Gladiators.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hiche\\Documents\\ZeroToPro\\POO\\Gladiators\\Gladiators.csproj": {
+    "c:\\Users\\hiche\\Documents\\ZeroToPro\\POO\\Gladiators\\Gladiators.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hiche\\Documents\\ZeroToPro\\POO\\Gladiators\\Gladiators.csproj",
+        "projectUniqueName": "c:\\Users\\hiche\\Documents\\ZeroToPro\\POO\\Gladiators\\Gladiators.csproj",
         "projectName": "Gladiators",
-        "projectPath": "C:\\Users\\hiche\\Documents\\ZeroToPro\\POO\\Gladiators\\Gladiators.csproj",
+        "projectPath": "c:\\Users\\hiche\\Documents\\ZeroToPro\\POO\\Gladiators\\Gladiators.csproj",
         "packagesPath": "C:\\Users\\hiche\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hiche\\Documents\\ZeroToPro\\POO\\Gladiators\\obj\\",
+        "outputPath": "c:\\Users\\hiche\\Documents\\ZeroToPro\\POO\\Gladiators\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hiche\\AppData\\Roaming\\NuGet\\NuGet.Config"

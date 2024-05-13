@@ -18,7 +18,6 @@ public class Gladiator
         while (currentHealth > 0)
         {            
             currentHealth -= damage;
-
             if (currentHealth <= 0)
             {
                 // pour éviter de tomber en négatif

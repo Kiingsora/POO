@@ -46,8 +46,6 @@ public class Gladiator
         {
             Console.WriteLine(Name + " à gagné");
             Console.WriteLine(penemyName.Name + " à perdu");
-                        Console.WriteLine(penemyName.CurrentHealth);
-
         }
     }
 }
