@@ -22,13 +22,13 @@ public class Gladiator
         if (target.CurrentHealth > 0 || CurrentHealth > 0)
         {
             target.CurrentHealth -= Damage;
-            Console.WriteLine(Name + " donne un coup, il inflige " + Damage + " pts de dégats. " + target.Name + " Point de vie restant: " + target.CurrentHealth + " points de vie");
             while (target.CurrentHealth <= 0 || CurrentHealth <= 0)
             {
                 target.CurrentHealth = 0;
                 CurrentHealth = 0;
                 break;
             }
+            Console.WriteLine(Name + " donne un coup, il inflige " + Damage + " pts de dégats. " + target.Name + " Point de vie restant: " + target.CurrentHealth + " points de vie");
         }
     }
 
@@ -46,8 +46,6 @@ public class Gladiator
         {
             Console.WriteLine(Name + " à gagné");
             Console.WriteLine(penemyName.Name + " à perdu");
-                        Console.WriteLine(penemyName.CurrentHealth);
-
         }
     }
 }

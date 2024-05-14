@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\hiche\\Documents\\ZeroToPro\\POO\\FightForLight\\FightForLight.csproj": {}
+    "C:\\Users\\hiche\\Documents\\ZeroToPro\\POO\\FightForLight\\FightForLight.csproj": {}
   },
   "projects": {
-    "c:\\Users\\hiche\\Documents\\ZeroToPro\\POO\\FightForLight\\FightForLight.csproj": {
+    "C:\\Users\\hiche\\Documents\\ZeroToPro\\POO\\FightForLight\\FightForLight.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\hiche\\Documents\\ZeroToPro\\POO\\FightForLight\\FightForLight.csproj",
+        "projectUniqueName": "C:\\Users\\hiche\\Documents\\ZeroToPro\\POO\\FightForLight\\FightForLight.csproj",
         "projectName": "FightForLight",
-        "projectPath": "c:\\Users\\hiche\\Documents\\ZeroToPro\\POO\\FightForLight\\FightForLight.csproj",
+        "projectPath": "C:\\Users\\hiche\\Documents\\ZeroToPro\\POO\\FightForLight\\FightForLight.csproj",
         "packagesPath": "C:\\Users\\hiche\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\hiche\\Documents\\ZeroToPro\\POO\\FightForLight\\obj\\",
+        "outputPath": "C:\\Users\\hiche\\Documents\\ZeroToPro\\POO\\FightForLight\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hiche\\AppData\\Roaming\\NuGet\\NuGet.Config"
