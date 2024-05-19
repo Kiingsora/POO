@@ -29,7 +29,6 @@ public class Gladiator
                 Console.WriteLine(name + " reçois " + damage + "pts de dégats, il lui reste " + currentHealth + " points de vie");
             }
         }
-
     }
 
     public void Die()

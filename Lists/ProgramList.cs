@@ -1,13 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
-
-Weapon keyblade = new Weapon("Keyblade", 15);
-Weapon gardian = new Weapon("Le gardien", 17);
-Weapon masamune = new Weapon("masamune", 22);
-Weapon sabreLaser = new Weapon("sabreLaser", 21);
-Weapon baguetteDeSorcier = new Weapon("baguetteDeSorcier", 22);
-
-Gladiator sora = new Gladiator(110, "Sora", keyblade.WeaponName, keyblade.Damage);
-Gladiator xehanort = new Gladiator(100, "Xehanort", gardian.WeaponName, gardian.Damage);
+Armory weapon = new Armory();
+Gladiator sora = new Gladiator(110, "Sora", weapon.getRandomWeapon());
+Gladiator xehanort = new Gladiator(100, "Xehanort",weapon.getRandomWeapon());
 
 while (true)
 {
